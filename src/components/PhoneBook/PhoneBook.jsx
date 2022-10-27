@@ -61,8 +61,8 @@ const Phonebook = () => {
         type="submit"
         className="button-signup"
         disabled={isLoad}
-      >
-        Add
+      >         
+        додати
       </Button>
     </FormPhonebook>
   );

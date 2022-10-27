@@ -19,7 +19,7 @@ const FormStyled = styled.form`
     font-size: 24px;
     transition: border-color 250ms linear;
     &:focus-visible {
-      border-color: orangered;
+      border-color: purple;
     }
   }
 `;

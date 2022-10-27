@@ -7,7 +7,7 @@ const InputNumber = ({ onChange, value }) => (
     type="tel"
     name="number"
     pattern="\+?\d{1,4}?[-.\s]?\(?\d{1,3}?\)?[-.\s]?\d{1,4}[-.\s]?\d{1,4}[-.\s]?\d{1,9}"
-    title="Phone number must be digits and can contain spaces, dashes, parentheses and can start with +"
+    title="Номер телефону має складатися з цифр і може містити пробіли, тире, круглі дужки та починатися з +"
     required
     placeholder="123-45-67"
     onChange={onChange}

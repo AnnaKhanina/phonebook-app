@@ -13,7 +13,7 @@ code {
 }
 
 form .button-signup {
-  background-color: #ccccff;
+  background-color: purple;
   width: 94px;
   height: 37px;
 
@@ -22,5 +22,5 @@ form .button-signup {
 
 form .button-signup:hover,
 form .button-signup:focus {
-  background-color: #ccccff;
+  background-color: purple;
 }
